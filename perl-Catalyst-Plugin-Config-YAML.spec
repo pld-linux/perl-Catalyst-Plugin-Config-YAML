@@ -6,7 +6,7 @@
 %define	pdir	Catalyst
 %define	pnam	Plugin-Config-YAML
 Summary:	Catalyst::Plugin::Config::YAML - Configure your Catalyst application via an YAML file
-Summary(pl):	Catalyst::Plugin::Config::YAML - konfiguracja aplikacji Catalysta poprzez plik YAML
+Summary(pl.UTF-8):   Catalyst::Plugin::Config::YAML - konfiguracja aplikacji Catalysta poprzez plik YAML
 Name:		perl-Catalyst-Plugin-Config-YAML
 Version:	0.03
 Release:	1
@@ -35,13 +35,13 @@ This is useful for example if you want to quickly change the
 configuration for different deployment environments (like development,
 testing or production) without changing your code.
 
-%description -l pl
+%description -l pl.UTF-8
 Ta wtyczka Catalysta pozwala na konfigurowanie aplikacji Catalysta
-przy u¿yciu zewnêtrznego pliku YAML zamiast bezpo¶rednio w kodzie
+przy uÅ¼yciu zewnÄ™trznego pliku YAML zamiast bezpoÅ›rednio w kodzie
 aplikacji.
 
-Jest to przydatne na przyk³ad je¶li chcemy szybko zmieniæ konfiguracjê
-dla ró¿nych ¶rodowisk (jak rozwojowe, testowe lub produkcyjne) bez
+Jest to przydatne na przykÅ‚ad jeÅ›li chcemy szybko zmieniÄ‡ konfiguracjÄ™
+dla rÃ³Å¼nych Å›rodowisk (jak rozwojowe, testowe lub produkcyjne) bez
 modyfikowania kodu.
 
 %prep
