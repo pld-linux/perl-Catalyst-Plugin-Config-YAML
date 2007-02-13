@@ -6,7 +6,7 @@
 %define	pdir	Catalyst
 %define	pnam	Plugin-Config-YAML
 Summary:	Catalyst::Plugin::Config::YAML - Configure your Catalyst application via an YAML file
-Summary(pl.UTF-8):   Catalyst::Plugin::Config::YAML - konfiguracja aplikacji Catalysta poprzez plik YAML
+Summary(pl.UTF-8):	Catalyst::Plugin::Config::YAML - konfiguracja aplikacji Catalysta poprzez plik YAML
 Name:		perl-Catalyst-Plugin-Config-YAML
 Version:	0.03
 Release:	1
