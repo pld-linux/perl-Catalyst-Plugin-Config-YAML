@@ -8,13 +8,13 @@
 Summary:	Catalyst::Plugin::Config::YAML - Configure your Catalyst application via an YAML file
 Summary(pl.UTF-8):	Catalyst::Plugin::Config::YAML - konfiguracja aplikacji Catalysta poprzez plik YAML
 Name:		perl-Catalyst-Plugin-Config-YAML
-Version:	0.03
+Version:	0.04
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	38dcd4e955cbc26db8a6560bd85806d3
+# Source0-md5:	2eaffe703ec62ccf1429d3ab48a64656
 URL:		http://search.cpan.org/dist/Catalyst-Plugin-Config-YAML/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
