@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Catalyst
 %define	pnam	Plugin-Config-YAML
 Summary:	Catalyst::Plugin::Config::YAML - Configure your Catalyst application via an YAML file
